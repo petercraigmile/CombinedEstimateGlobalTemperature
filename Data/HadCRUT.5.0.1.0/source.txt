@@ -1,0 +1,8 @@
+
+Downloaded on Jan 18, 2021 from
+
+https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html
+
+Under HadCRUT.5.0.1.0 analysis,
+
+- choose Summary series, NetCDF, Global (NH+SH)/2, and Annual

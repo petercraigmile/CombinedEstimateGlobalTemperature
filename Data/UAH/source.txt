@@ -1,0 +1,8 @@
+
+University of Alabama Huntsville
+
+Downloaded from https://www.nsstc.uah.edu/data/msu/v6.0/tlt/uahncdc_lt_6.0.txt
+Our download July 21,2021
+Anomalies wrt 1991-2020
+No estimate of absolute temperature
+

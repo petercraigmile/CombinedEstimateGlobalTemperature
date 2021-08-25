@@ -1,0 +1,17 @@
+adaptor.mars.internal-1629201992.8076582-8552-12-99fa969f-eed3-49d0-b1c9-2b4ba840bd3a.nc
+
+was downloaded from
+
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=form
+
+on August 19, 2021
+
+Data in K. No anomalies.
+
+
+To recreate the file from the compressed chunks:
+
+cat adaptor.mars.internal-1629201992.8076582-8552-12-99fa969f-eed3-49d0-b1c9-2b4ba840bd3a.nc.bz2_* > adaptor.mars.internal-1629201992.8076582-8552-12-99fa969f-eed3-49d0-b1c9-2b4ba840bd3a.nc.bz2
+
+bunzip2 adaptor.mars.internal-1629201992.8076582-8552-12-99fa969f-eed3-49d0-b1c9-2b4ba840bd3a.nc.bz2
+
