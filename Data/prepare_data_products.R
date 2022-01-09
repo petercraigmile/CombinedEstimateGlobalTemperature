@@ -86,9 +86,6 @@ NOAA <- subset.and.anom(years    = NOAA.df[,1],
 
 ## ======================================================================
 ## GISS
-##
-## We calculate the variances of the annual values using a time series
-## analysis of the monthly values.
 ## ======================================================================
 
 GISS.df <- read.csv("GISS/totalCI_ERA.csv")
