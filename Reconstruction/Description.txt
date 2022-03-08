@@ -1,0 +1,27 @@
+
+Posterior_samples.csv:
+======================================================================
+
+Column 1: Year
+
+Columns 2..101: 100 posterior draws of the global annual average temperature series.
+
+
+
+Posterior_summaries.csv:
+======================================================================
+
+Column 1: Year
+
+Column 2: Posterior mean for that year
+
+Column 3: Posterior SD for that year
+
+Column 4: Posterior 0.025 quantile for that year
+
+Column 5: Posterior 0.975 quantile for that year
+
+
+
+
+
