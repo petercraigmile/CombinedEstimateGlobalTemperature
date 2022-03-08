@@ -54,10 +54,10 @@ for (k in 1:50) {
     print(round(rowMeans(simplify2array(dch$R.jumps.chain)), 2))
     cat("\n")
     
-    pdf(file="trace_plots/trace_plots_data_products_AR2.pdf", width=6.3, height=6.5)
+    pdf(file="trace_plots/trace_plots_data_products_AR4.pdf", width=6.3, height=6.5)
     trace.plots(dch)
     dev.off()
     
-    save(dch, file="chains/data_products_corr_AR2.RData")
+    save(dch, file="chains/data_products_corr_AR4.RData")
 }
 
